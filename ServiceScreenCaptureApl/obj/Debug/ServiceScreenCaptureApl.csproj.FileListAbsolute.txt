@@ -1,0 +1,4 @@
+c:\users\gerson\source\repos\ServiceScreenCaptureApl\ServiceScreenCaptureApl\obj\Debug\ServiceScreenCaptureApl.csprojAssemblyReference.cache
+c:\users\gerson\source\repos\ServiceScreenCaptureApl\ServiceScreenCaptureApl\obj\Debug\ServiceScreenCaptureApl.csproj.CoreCompileInputs.cache
+c:\users\gerson\source\repos\ServiceScreenCaptureApl\ServiceScreenCaptureApl\obj\Debug\Interop.WMPLib.dll
+c:\users\gerson\source\repos\ServiceScreenCaptureApl\ServiceScreenCaptureApl\obj\Debug\ServiceScreenCaptureApl.csproj.ResolveComReference.cache
